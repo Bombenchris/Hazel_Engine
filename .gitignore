@@ -1,1 +1,7 @@
-.vs/Hazel/v16/Browse.VC.opendb
+#Directories
+.vs/
+bin/
+bin-int/
+
+#Files
+*.user

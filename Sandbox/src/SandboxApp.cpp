@@ -2,7 +2,7 @@
 
 class Sandbox : public Hazel::Application
 {
-public:
+public: 
 	Sandbox()
 	{
 
